@@ -1,0 +1,12 @@
+C:\Users\udeshm\Documents\Visual Studio 2008\Projects\Cricket_LiveScore\Cricket_LiveScore\bin\Debug\Cricket_LiveScore.exe
+C:\Users\udeshm\Documents\Visual Studio 2008\Projects\Cricket_LiveScore\Cricket_LiveScore\bin\Debug\Cricket_LiveScore.pdb
+C:\Users\udeshm\Documents\Visual Studio 2008\Projects\Cricket_LiveScore\Cricket_LiveScore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\udeshm\Documents\Visual Studio 2008\Projects\Cricket_LiveScore\Cricket_LiveScore\obj\Debug\Cricket_LiveScore.Form1.resources
+C:\Users\udeshm\Documents\Visual Studio 2008\Projects\Cricket_LiveScore\Cricket_LiveScore\obj\Debug\Cricket_LiveScore.Properties.Resources.resources
+C:\Users\udeshm\Documents\Visual Studio 2008\Projects\Cricket_LiveScore\Cricket_LiveScore\obj\Debug\Cricket_LiveScore.csproj.GenerateResource.Cache
+C:\Users\udeshm\Documents\Visual Studio 2008\Projects\Cricket_LiveScore\Cricket_LiveScore\obj\Debug\Cricket_LiveScore.exe
+C:\Users\udeshm\Documents\Visual Studio 2008\Projects\Cricket_LiveScore\Cricket_LiveScore\obj\Debug\Cricket_LiveScore.pdb
+C:\Users\udeshm\Documents\Visual Studio 2008\Projects\Cricket_LiveScore\Cricket_LiveScore\bin\Debug\Cricket_LiveScore.exe.manifest
+C:\Users\udeshm\Documents\Visual Studio 2008\Projects\Cricket_LiveScore\Cricket_LiveScore\bin\Debug\Cricket_LiveScore.application
+C:\Users\udeshm\Documents\Visual Studio 2008\Projects\Cricket_LiveScore\Cricket_LiveScore\obj\Debug\Cricket_LiveScore.exe.manifest
+C:\Users\udeshm\Documents\Visual Studio 2008\Projects\Cricket_LiveScore\Cricket_LiveScore\obj\Debug\Cricket_LiveScore.application
